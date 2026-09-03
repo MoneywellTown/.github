@@ -10,7 +10,7 @@ walk into the outskirts where creatures quiz you on it.
 > product we are building from here is a great deal larger than what a week
 > could hold.
 
-![The town overworld, with Northwell Bank, the fountain and the noticeboard](images/town.png)
+![The town overworld, with Northwell Bank, the fountain and the noticeboard](https://raw.githubusercontent.com/MoneywellTown/.github/main/images/town.png)
 
 ## What we built in a week
 
@@ -29,21 +29,21 @@ to sign something.
 
 ## Screenshots
 
-![A lesson page from the accountant: gross pay drawn as a bar, with income tax, National Insurance and pension stacked against it](images/lesson-payslip.png)
+![A lesson page from the accountant: gross pay drawn as a bar, with income tax, National Insurance and pension stacked against it](https://raw.githubusercontent.com/MoneywellTown/.github/main/images/lesson-payslip.png)
 
 A lesson runs five to ten short pages, and all 144 of them are drawn. A page
 picks one of eight diagram primitives or one of nine bespoke pieces, like the
 payslip above.
 
-![A battle after a wrong answer: the player dropped to 80 HP and the explanation is shown anyway](images/battle-wrong.png)
+![A battle after a wrong answer: the player dropped to 80 HP and the explanation is shown anyway](https://raw.githubusercontent.com/MoneywellTown/.github/main/images/battle-wrong.png)
 
 The shot worth looking at is a wrong answer. Every question carries a required
 `explanation` field, so the teaching moment cannot be skipped by getting it
 right or by getting it wrong.
 
-![The in-game phone open over the town, with Skipper answering a question about what to learn next](images/skipper-phone.png)
+![The in-game phone open over the town, with Skipper answering a question about what to learn next](https://raw.githubusercontent.com/MoneywellTown/.github/main/images/skipper-phone.png)
 
-![The review boxes: every question sits in one of five columns, from BEGINNER to MASTERED, and the column says when it comes back](images/boxes.png)
+![The review boxes: every question sits in one of five columns, from BEGINNER to MASTERED, and the column says when it comes back](https://raw.githubusercontent.com/MoneywellTown/.github/main/images/boxes.png)
 
 ## How it works
 
